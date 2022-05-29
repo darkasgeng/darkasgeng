@@ -1,19 +1,7 @@
-$ apt update && apt upgrade
-
-$ pkg install python2
-
-$ pip2 install mechanize
-
-$ pip2 install requests
-
-$ pkg install git
-
-$ git clone https://github.com/asgeng/fb
-
-$ cd fb
-
-$ python2 rcmbls.py
-
-
-Username : 10102004
-Password : darkasgeng
+apt update && apt upgrade
+pkg install python python2 php bash git figlet toilet ruby
+gem install lolcat
+pip2 install requests tqdm mechanize
+git clone https://github.com/storiku/sensei
+cd sensei
+sh start.sh
